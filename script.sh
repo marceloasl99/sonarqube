@@ -3,7 +3,8 @@
 # =============================================================================
 # Script de Instalação Automatizada do SonarQube Community Edition no Ubuntu
 # Versão do SonarQube: 25.5.0.107428
-# Data: 15 de maio de 2025
+# Data: 15 de maio de 2025 - Rev 3.10
+#Salve o conteúdo abaixo em um arquivo chamado instalar_sonarqube.sh, torne-o executável com chmod +x instalar_sonarqube.sh e execute com sudo ./instalar_sonarqube.sh.
 # =============================================================================
 
 # --- DEFINIÇÕES ---
